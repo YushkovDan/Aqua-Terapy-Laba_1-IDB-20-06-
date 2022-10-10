@@ -1,0 +1,80 @@
+body
+{
+    font-size: 14px;
+    background: #162831;
+    width: 1920px;
+    height: 1080px
+}
+.girl {
+    position: absolute;
+    width: 636px;
+    height: 394px;
+    left: 700px;
+    top: 152px;
+    background: url("../pic/girl.jpg");
+    border-radius: 10px;
+}
+.logo {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 100px;
+    top: 30px;
+    background: url("../pic/logo.svg");
+    border-radius: 10px;
+}
+.main_page {
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 200px;
+    top: 40px;
+    background: url("../pic/main_page.svg");
+}
+.news {
+    position: absolute;
+    width: 78px;
+    height: 24px;
+    left: 400px;
+    top: 43px;
+    background: url("../pic/news.svg");
+    border-radius: 1px;
+}
+.contacts {
+    position: absolute;
+    width: 123px;
+    height: 24px;
+    left: 530px;
+    top: 43px;
+    background: url("../pic/contacts.svg");
+    border-radius: 1px;
+}
+.first {
+    position: absolute;
+    width: 526px;
+    height: 362px;
+    left: 100px;
+    top: 200px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 140%;
+  
+    color: #ffffff;
+}
+.second {
+    position: absolute;
+    width: 526px;
+    height: 362px;
+    left: 100px;
+    top: 120px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 140%;
+    
+    color: #ffffff;
+}
+

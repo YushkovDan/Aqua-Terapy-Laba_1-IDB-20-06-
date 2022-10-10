@@ -1,0 +1,149 @@
+body {
+    font-size: 14px;
+    background: #162831;
+    width: 1920px;
+    height: 1080px
+}
+.logo {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 100px;
+    top: 30px;
+    background: url("../pic/logo.svg");
+    border-radius: 10px;
+}
+.main_page {
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 200px;
+    top: 40px;
+    background: url("../pic/main_page.svg");
+}
+
+.news {
+    position: absolute;
+    width: 78px;
+    height: 24px;
+    left: 400px;
+    top: 43px;
+    background: url("../pic/news.svg");
+    border-radius: 1px;
+}
+
+.contacts {
+    position: absolute;
+    width: 123px;
+    height: 24px;
+    left: 530px;
+    top: 43px;
+    background: url("../pic/contacts.svg");
+    border-radius: 1px;
+}
+.watergirl_1 {
+    position: absolute;
+    width: 409px;
+    height: 254px;
+    left: 100px;
+    top: 200px;
+    background: url("../pic/watergirl.svg");
+    border-radius: 10px;
+}
+.watergirl_2 {
+    position: absolute;
+    width: 409px;
+    height: 254px;
+    left: 530px;
+    top: 200px;
+    background: url("../pic/watergirl.svg");
+    border-radius: 10px;
+}
+.watergirl_3 {
+    position: absolute;
+    width: 409px;
+    height: 254px;
+    left: 960px;
+    top: 200px;
+    background: url("../pic/watergirl.svg");
+    border-radius: 10px;
+}
+.date_1 {
+    position: absolute;
+    width: 526px;
+    height: 362px;
+    left: 105px;
+    top: 200px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 140%;
+    color: #ffffff;
+}
+.text_1 {
+    position: absolute;
+    width: 526px;
+    height: 362px;
+    left: 105px;
+    top: 400px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 140%;
+    color: #ffffff;
+}
+
+.date_2 {
+    position: absolute;
+    width: 526px;
+    height: 362px;
+    left: 535px;
+    top: 200px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 140%;
+    color: #ffffff;
+}
+.text_2 {
+    position: absolute;
+    width: 526px;
+    height: 362px;
+    left: 535px;
+    top: 400px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 140%;
+    color: #ffffff;
+}
+.text_3 {
+    position: absolute;
+    width: 526px;
+    height: 362px;
+    left: 965px;
+    top: 400px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 140%;
+    color: #ffffff;
+}
+.date_3 {
+    position: absolute;
+    width: 526px;
+    height: 362px;
+    left: 965px;
+    top: 200px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 140%;
+    color: #ffffff;
+}
